@@ -1,0 +1,6 @@
+*.out
+client
+*.o
+*~
+CMakeCache.txt
+*/*.cmake
